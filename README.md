@@ -46,7 +46,7 @@ Welcome to my cyberspace hub! I'm passionate about building robust systems and e
 
 #### BSD
 - [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://www.freebsd.org)
-- [![OpenBSD](https://img.shields.io/badge/OpenBSD-06243B?style=for-the-badge&logo=freebsd&logoColor=white)](https://openbsd.org)
+- [![OpenBSD](https://img.shields.io/badge/OpenBSD-06243B?style=for-the-badge&logo=openbsd&logoColor=white)](https://openbsd.org)
 
 ## 🌐 Connect with Me
 Let's connect and explore the universe of code together:
