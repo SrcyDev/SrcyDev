@@ -36,7 +36,7 @@ Welcome to my cyberspace hub! I'm passionate about building robust systems and e
 [![pip](https://img.shields.io/badge/pip-%23FFD43B.svg?style=for-the-badge&logo=pypi&logoColor=white)](https://pip.pypa.io/en/stable/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![ANTLR](https://img.shields.io/badge/ANTLR-%23000000.svg?style=for-the-badge&logo=antlr&logoColor=white)](https://www.antlr.org/)
-[![LLVM](https://img.shields.io/badge/LLVM-%23FF6600.svg?style=for-the-badge&logo=llvm&logoColor=white)](https://llvm.org/)
+[![LLVM](https://img.shields.io/badge/LLVM-white.svg?style=for-the-badge&logo=llvm&logoColor=black)](https://llvm.org/)
 
 ### Operating Systems
 #### Linux
