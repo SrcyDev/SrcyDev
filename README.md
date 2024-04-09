@@ -10,7 +10,6 @@ Welcome to my cyberspace hub! I'm passionate about building robust systems and e
 [![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=original)](https://www.python.org)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Shell(Mainly bash, zsh)](https://img.shields.io/badge/Shell-grey.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
 ### Frameworks
@@ -29,6 +28,7 @@ Welcome to my cyberspace hub! I'm passionate about building robust systems and e
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Clang](https://img.shields.io/badge/Clang-%23A9A9A9.svg?style=for-the-badge&logo=clang&logoColor=white)](https://clang.llvm.org)
 [![GCC](https://img.shields.io/badge/GCC-%23FFA500.svg?style=for-the-badge&logo=gcc&logoColor=white)](https://gcc.gnu.org)
 [![GraalVM](https://img.shields.io/badge/GraalVM-EC6C00?style=for-the-badge&logo=graalvm&logoColor=white)](https://www.graalvm.org)
