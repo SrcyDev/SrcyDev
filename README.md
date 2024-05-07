@@ -40,9 +40,12 @@ Welcome to my cyberspace hub! I'm passionate about building robust systems and e
 
 ### Operating Systems
 #### Linux
-- [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org)
+
 - [![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://www.archlinux.org)
+- [![Debian](https://img.shields.io/badge/Debian-FF3333?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org)
 - [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://www.gentoo.org)
+- [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org)
+
 
 #### BSD
 - [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://www.freebsd.org)
