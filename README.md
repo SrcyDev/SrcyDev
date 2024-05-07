@@ -53,6 +53,6 @@ Welcome to my cyberspace hub! I'm passionate about building robust systems and e
 
 ## 🌐 Connect with Me
 Let's connect and explore the universe of code together:
-- Drop me an [email](mailto:srcydeveloper@gmail.com)
-
+- Drop me an [email](mailto:voidptrnull@proton.me)
+- Contact me at [Discord](https://discord.com/app) \[Username: `voidptrnull`\] <br>
 Stay awesome, stay curious, and keep coding! 🖖
