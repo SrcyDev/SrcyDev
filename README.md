@@ -1,5 +1,7 @@
 # Hi there, I'm Subhadip Roy Chowdhury! 👋
 
+[![discord](https://discord.c99.nl/widget/theme-2/971723395303632956.png)](voidptrnull)
+
 Welcome to my cyberspace hub! I'm passionate about building robust systems and exploring the cutting edge of technology. Currently orbiting the realms of code, architecture, and everything in between.
 
 ## 🚀 Skills & Tools
