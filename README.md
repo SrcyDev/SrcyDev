@@ -6,7 +6,11 @@
 Welcome to my cyberspace hub! I'm passionate about building robust systems and exploring the cutting edge of technology. Currently orbiting the realms of code, architecture, and everything in between.
 
 ## 🚀 Skills & Tools
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,rust,java,discord,bsd,bash,arch,anaconda,lua,md,docker,c,cpp,neovim,vscode,django,cmake,electron&perline=5" />
+  </a>
+</p>
 ### Languages
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
