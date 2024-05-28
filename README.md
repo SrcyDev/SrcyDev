@@ -8,7 +8,7 @@ Welcome to my cyberspace hub! I'm passionate about building robust systems and e
 ## 🚀 Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,rust,java,discord,bsd,bash,arch,anaconda,lua,md,docker,c,cpp,neovim,vscode,django,cmake,electron&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,rust,java,discord,bsd,bash,arch,anaconda,lua,md,docker,c,cpp,neovim,vscode,django,cmake&perline=5" />
   </a>
 </p>
 
