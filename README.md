@@ -1,4 +1,4 @@
-# Hi there, I'm Subhadip Roy Chowdhury! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font&weight=50&size=26&pause=1000&color=7E3FF7&center=true&vCenter=true&random=false&width=512&height=64&lines=Hi%2C+I+am+voidptrnull.)](https://git.io/typing-svg)
 
 [![discord](https://discord.c99.nl/widget/theme-2/971723395303632956.png)](voidptrnull)
 
