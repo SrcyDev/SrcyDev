@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font&weight=50&size=26&pause=1000&color=7E3FF7&center=true&vCenter=true&random=false&width=512&height=64&lines=Hi%2C+I+am+voidptrnull." alt="Typing SVG" /></a>
   <a><img src=https://discord.c99.nl/widget/theme-2/971723395303632956.png alt="Discord Status" /></a>
 </div>
-Welcome to my cyberspace hub! I'm passionate about building robust systems and exploring the cutting edge of technology. Currently orbiting the realms of code, architecture, and everything in between.
+Welcome to my page! I like to build robust systems and explore the bleeding-edge technology, focusing on designs and architecture.
 
 ## 🚀 Skills & Tools
 <p align="center">
