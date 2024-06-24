@@ -42,5 +42,4 @@ Welcome to my page! I like to build robust systems and explore the bleeding-edge
 ## 🌐 Connect with Me
 Let's connect and explore the universe of code together:
 - Drop me an [email](mailto:voidptrnull@proton.me)
-- Contact me at [Discord](https://discord.com/app) \[Username: `voidptrnull`\] <br>
-Stay awesome, stay curious, and keep coding! 🖖
+- Visit my portfolio [here](https://voidptrnull.netlify.app/)
