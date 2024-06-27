@@ -4,6 +4,7 @@
   <a><img src=https://discord.c99.nl/widget/theme-2/971723395303632956.png alt="Discord Status" /></a>
 </div>
 Welcome to my page! I like to build robust systems and explore the bleeding-edge technology, focusing on designs and architecture.
+My GPG Public Key: <a href="http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x1713423463f84fc0">here</a>
 
 ## 🚀 Skills & Tools
 <p align="center">
